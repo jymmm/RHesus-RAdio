@@ -15,7 +15,7 @@ The beeps sound are like 1000 / 100 Code format
 
 I mean Line of Code.. 
 @ Arduino the keyboard shortcut control + F (find shorcut) so... 180 send you to the line With the 180/256 value... Maybe i leave coments there...
- Hope that helps. Excuse my por english too. 乁⁠༼⁠☯⁠‿⁠☯⁠✿⁠༽⁠ㄏ
+ Hope that helps. Excuse my por english too.
 
  DR RHESUS
 
